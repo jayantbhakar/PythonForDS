@@ -1,2 +1,2 @@
 hello world!!
-this contains the jupyter notebook files
+this contains the jupyter notebook files for DSalgo COURSE
